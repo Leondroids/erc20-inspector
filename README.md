@@ -1,0 +1,1 @@
+# Inspector tool for ERC20 token
